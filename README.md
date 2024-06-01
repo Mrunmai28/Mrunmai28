@@ -2,7 +2,7 @@
 # Hi, I'm Mrunmai 👋 👩‍💻
 &nbsp; 
 <p align="center" width="100%">
-  <img src="https://github.com/your-username/your-repo-name/raw/main/path/to/your-image.png">
+  <img src="="https://github.com/Mrunmai28/image-storage/blob/main/Image.jpg">
 </p>
 
 #### I am Mrunmai from India. I am a self-taught Web and Java developer with a keen interest in Web development, Data Analytics, and Software development.I'm a programmer who prefers enjoying the work instead of just doing it.
