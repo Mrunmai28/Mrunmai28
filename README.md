@@ -5,9 +5,9 @@
   <img src="https://github.com/your-username/your-repo-name/raw/main/path/to/your-image.png">
 </p>
 
-#### I am Mrunmai from India. I am a self-taught Web and Java developer with a keen interest in Web development, Data Analytics, and Software development. Currently learning Django because I love working with Python. I'm a programmer who prefers enjoying the work instead of just doing it.
+#### I am Mrunmai from India. I am a self-taught Web and Java developer with a keen interest in Web development, Data Analytics, and Software development.I'm a programmer who prefers enjoying the work instead of just doing it.
 
-Don't worry, I'm not going to tell you everything about me here, so have a look through my [resume](https://mrunmai-resume.netlify.app/)
+Don't worry, I'm not going to tell you everything about me here, so have a look through my [resume]([https://mrunmai-resume.netlify.app/](https://drive.google.com/drive/folders/1hIcOl076pM23pi8l4zi3l3Hyp3Hkgxbv)
 &nbsp;
 ## `My Tech Stack 🤘`
 
