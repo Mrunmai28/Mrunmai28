@@ -23,7 +23,7 @@ Don't worry, I'm not going to tell you everything about me here, so have a look 
       <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
   &nbsp &nbsp 
       <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-     <a href="#" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-yjemi&psig=AOvVaw1xaT0GSUuNJjRZz3Ajfddf&ust=1730965183753000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPC3ioGax4kDFQAAAAAdAAAAABAR" alt="Java" width="40" height="40"/></a>
+     <a href="#" target="_blank"> <img src="" alt="Java" width="40" height="40"/></a>
 </p>
 
 #### Databases
